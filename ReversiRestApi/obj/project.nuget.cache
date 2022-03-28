@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DgDkaniRQ+GFgLFMX6CsJRL0RHArCjswsXmd4aAFKkF17S9uzCVooNFZe7O/OyOU1XUjmCSVVdXMdF6Fo4SxtQ==",
+  "dgSpecHash": "z4OEdFWHkDq0/6eKs1xn0bNisuJsKc00/gAk0x+j8gp3rbOYD8f0C6LnRCuvCUnIlgYL3gSBLRNZSWXlgS8P0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\totti\\Desktop\\Tasker Poging 2\\ReversiRestApi\\ReversiRestApi\\ReversiRestApi.csproj",
+  "projectFilePath": "C:\\Users\\totti\\Desktop\\GitReversi\\TempTask2122RevAPI\\ReversiRestApi\\ReversiRestApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\totti\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\totti\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

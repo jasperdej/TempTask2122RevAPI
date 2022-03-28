@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\totti\\Desktop\\Tasker Poging 2\\ReversiRestApi\\ReversiRestApi\\ReversiRestApi.csproj": {}
+    "C:\\Users\\totti\\Desktop\\GitReversi\\TempTask2122RevAPI\\ReversiRestApi\\ReversiRestApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\totti\\Desktop\\Tasker Poging 2\\ReversiRestApi\\ReversiRestApi\\ReversiRestApi.csproj": {
+    "C:\\Users\\totti\\Desktop\\GitReversi\\TempTask2122RevAPI\\ReversiRestApi\\ReversiRestApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\totti\\Desktop\\Tasker Poging 2\\ReversiRestApi\\ReversiRestApi\\ReversiRestApi.csproj",
+        "projectUniqueName": "C:\\Users\\totti\\Desktop\\GitReversi\\TempTask2122RevAPI\\ReversiRestApi\\ReversiRestApi.csproj",
         "projectName": "ReversiRestApi",
-        "projectPath": "C:\\Users\\totti\\Desktop\\Tasker Poging 2\\ReversiRestApi\\ReversiRestApi\\ReversiRestApi.csproj",
+        "projectPath": "C:\\Users\\totti\\Desktop\\GitReversi\\TempTask2122RevAPI\\ReversiRestApi\\ReversiRestApi.csproj",
         "packagesPath": "C:\\Users\\totti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\totti\\Desktop\\Tasker Poging 2\\ReversiRestApi\\ReversiRestApi\\obj\\",
+        "outputPath": "C:\\Users\\totti\\Desktop\\GitReversi\\TempTask2122RevAPI\\ReversiRestApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

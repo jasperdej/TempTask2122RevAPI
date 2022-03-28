@@ -37,7 +37,10 @@ namespace ReversiRestApi
 								  {
 									  builder.WithOrigins("https://localhost:44368/",
 														  "https://localhost:44368/Spellen/",
-														  "https://localhost:44368")
+														  "https://localhost:44368",
+														  "https://peugeot9x8hype.hbo-ict.org",
+														  "https://peugeot9x8hype.hbo-ict.org/",
+														  "https://peugeot9x8hype.hbo-ict.org/Spellen/")
 															.AllowAnyHeader()
 															.AllowAnyMethod();
 								  });
